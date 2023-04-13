@@ -13,7 +13,8 @@ Ans3-  Backend web development handles server-side web application functionality
 Ques4- Create your own GitHub & LinkedIn accounts. Share the screenshot of both of your accounts and
 share your profile links of GitHub & LinkedIn in the solution.
 
-Ans4- 
+Ans4- I have both LinkedIn and GitHub accounts but I am unable to paste the ScreenShot here. So, I am mentioning my Github and LinkedIn account here. Please check it out.
 
-![image](https://user-images.githubusercontent.com/124355597/231820434-6e775d6c-0818-4484-b71c-7ac8c53d4247.png)
+GitHub - @Rohit-Pandey-09
+LinkedIn- pandeyrohit9263@gmail.com
 
