@@ -1,0 +1,29 @@
+Q1. Why CSS selectors are used in HTML?
+Ans1. CSS selectors are used in HTML to apply different styles to specific elements. For example, you can use a CSS selector to change the color, font, size, or layout of an HTML element. CSS selectors can target elements by their tag name, class name, id, attribute, or pseudo-class. CSS selectors make it easier to create consistent and responsive web pages.
+
+
+Q2. What are the different types of selectors in CSS?
+Ans2. Selectors are patterns that match elements in a HTML document. There are different types of selectors in CSS, such as:
+
+- Element selectors: match elements by their tag name, e.g. `p` matches all `<p>` elements.
+- Class selectors: match elements by their class attribute, e.g. `.red` matches all elements with `class="red"`.
+- ID selectors: match elements by their id attribute, e.g. `#logo` matches the element with `id="logo"`.
+- Attribute selectors: match elements by their attributes or attribute values, e.g. `[href]` matches all elements with a `href` attribute.
+- Pseudo-class selectors: match elements based on their state or position, e.g. `:hover` matches elements when the mouse pointer is over them.
+- Pseudo-element selectors: match parts of elements or generated content, e.g. `::before` matches the content before an element.
+- Combinators: combine two or more selectors to create more specific selections, e.g. `div > p` matches all `<p>` elements that are direct children of `<div>` elements.
+
+
+Q3. How do you include external fonts and apply them?
+Ans3. To include external fonts and apply them, you can use the @font-face rule in your CSS file. The @font-face rule allows you to specify a font family name and the URL where the font file is located. For example:
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('https://fonts.googleapis.com/css?family=Open+Sans');
+}
+
+Once you have included the font using @font-face, you can apply it to specific elements in your HTML using the font-family property. For example:
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
