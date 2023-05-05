@@ -1,0 +1,14 @@
+Q1. What is padding and margin and when do you use them?
+Ans1. Padding and margin are two properties that control the space around an element in a web page. Padding is the space between the element's content and its border, while margin is the space between the element's border and its surrounding elements. Padding and margin are used to create layout, alignment, and spacing effects for web design.
+
+
+Q2. What is display property and explain display inline, block and inline-block?
+Ans2. The display property specifies how an element is rendered on a web page. There are three common values for this property: inline, block and inline-block.
+
+- Inline elements do not start on a new line and only take up as much space as necessary. Examples of inline elements are <span>, <a> and <img>.
+- Block elements start on a new line and take up the full width available. Examples of block elements are <div>, <p> and <h1>.
+- Inline-block elements are similar to inline elements, but they allow setting a width and height. Examples of inline-block elements are <button>, <input> and <label>.
+
+
+Q3. Explain min-height, min-width, max-height and max-width in CSS?
+Ans3. Min-height and min-width are CSS properties that specify the minimum size of an element's height and width, respectively. They prevent the element from shrinking below a certain value, even if the content is smaller or the browser window is resized. Max-height and max-width are CSS properties that specify the maximum size of an element's height and width, respectively. They prevent the element from growing beyond a certain value, even if the content is larger or the browser window is resized.
